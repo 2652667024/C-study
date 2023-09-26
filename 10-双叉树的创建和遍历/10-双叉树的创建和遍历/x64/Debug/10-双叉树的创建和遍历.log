@@ -1,0 +1,10 @@
+﻿  双叉树的创建和遍历.c
+C:\Users\Administrator\source\repos\10-双叉树的创建和遍历\10-双叉树的创建和遍历\双叉树的创建和遍历.c(36,14): warning C4133: “函数”: 从“tree **”到“treenode **”的类型不兼容
+C:\Users\Administrator\source\repos\10-双叉树的创建和遍历\10-双叉树的创建和遍历\双叉树的创建和遍历.c(37,14): warning C4133: “函数”: 从“tree **”到“treenode **”的类型不兼容
+C:\Users\Administrator\source\repos\10-双叉树的创建和遍历\10-双叉树的创建和遍历\双叉树的创建和遍历.c(51,13): warning C4133: “函数”: 从“tree *”到“treenode *”的类型不兼容
+C:\Users\Administrator\source\repos\10-双叉树的创建和遍历\10-双叉树的创建和遍历\双叉树的创建和遍历.c(53,13): warning C4133: “函数”: 从“tree *”到“treenode *”的类型不兼容
+C:\Users\Administrator\source\repos\10-双叉树的创建和遍历\10-双叉树的创建和遍历\双叉树的创建和遍历.c(67,12): warning C4133: “函数”: 从“tree *”到“treenode *”的类型不兼容
+C:\Users\Administrator\source\repos\10-双叉树的创建和遍历\10-双叉树的创建和遍历\双叉树的创建和遍历.c(70,12): warning C4133: “函数”: 从“tree *”到“treenode *”的类型不兼容
+C:\Users\Administrator\source\repos\10-双叉树的创建和遍历\10-双叉树的创建和遍历\双叉树的创建和遍历.c(83,14): warning C4133: “函数”: 从“tree *”到“treenode *”的类型不兼容
+C:\Users\Administrator\source\repos\10-双叉树的创建和遍历\10-双叉树的创建和遍历\双叉树的创建和遍历.c(85,14): warning C4133: “函数”: 从“tree *”到“treenode *”的类型不兼容
+  10-双叉树的创建和遍历.vcxproj -> C:\Users\Administrator\source\repos\10-双叉树的创建和遍历\x64\Debug\10-双叉树的创建和遍历.exe
