@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15-中序线索二叉树的代码实现", "15-中序线索二叉树的代码实现\15-中序线索二叉树的代码实现.vcxproj", "{1E4C63DB-6047-4D11-B51A-14E9027FA739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4C63DB-6047-4D11-B51A-14E9027FA739}.Debug|x64.ActiveCfg = Debug|x64
+		{1E4C63DB-6047-4D11-B51A-14E9027FA739}.Debug|x64.Build.0 = Debug|x64
+		{1E4C63DB-6047-4D11-B51A-14E9027FA739}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E4C63DB-6047-4D11-B51A-14E9027FA739}.Debug|x86.Build.0 = Debug|Win32
+		{1E4C63DB-6047-4D11-B51A-14E9027FA739}.Release|x64.ActiveCfg = Release|x64
+		{1E4C63DB-6047-4D11-B51A-14E9027FA739}.Release|x64.Build.0 = Release|x64
+		{1E4C63DB-6047-4D11-B51A-14E9027FA739}.Release|x86.ActiveCfg = Release|Win32
+		{1E4C63DB-6047-4D11-B51A-14E9027FA739}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ADABAE2-8575-483C-8CAF-513E8CEB18FB}
+	EndGlobalSection
+EndGlobal
