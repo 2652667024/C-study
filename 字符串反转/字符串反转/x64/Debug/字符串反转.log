@@ -1,0 +1,4 @@
+﻿  字符串反转.c
+C:\Users\Administrator\source\repos\字符串反转\字符串反转\字符串反转.c(57,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\Administrator\source\repos\字符串反转\字符串反转\字符串反转.c(80,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字符串反转.vcxproj -> C:\Users\Administrator\source\repos\字符串反转\x64\Debug\字符串反转.exe
