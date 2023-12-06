@@ -1,0 +1,4 @@
+﻿  平衡二叉树.c
+C:\Users\Administrator\source\repos\28-平衡二叉树(avl)树\28-平衡二叉树(avl)树\平衡二叉树.c(191,1): warning C4005: “max”: 宏重定义
+E:\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(1282,1): message : 参见“max”的前一个定义
+  28-平衡二叉树(avl)树.vcxproj -> C:\Users\Administrator\source\repos\28-平衡二叉树(avl)树\x64\Debug\28-平衡二叉树(avl)树.exe
